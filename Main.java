@@ -1,5 +1,6 @@
 void main(){
-IO.println("Hello Word¨)
+IO.println("Hell Word¨);
+
 
 
 
